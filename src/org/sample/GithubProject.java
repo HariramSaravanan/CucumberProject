@@ -5,6 +5,8 @@ public class GithubProject {
 		System.out.println("Github project");
 		System.out.println("Cucumber project");
 		System.out.println("Maven project");
+		System.out.println("B has edited in github");
+		
 	} 
 	
 
